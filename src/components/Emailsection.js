@@ -6,7 +6,6 @@ export default function Emailsection() {
     /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z]+)*$/;
 
   let emailBox = document.querySelector(".email-section input");
-  console.log(emailBox);
   let alertPara = document.querySelector(".email-section p");
   let [email, setEmail] = useState("");
   function emailInput(event) {
