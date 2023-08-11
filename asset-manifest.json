@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ping-Comming-Soon-FrontendMentor/static/css/main.bcbb6409.css",
+    "main.js": "/Ping-Comming-Soon-FrontendMentor/static/js/main.dbb6c22e.js",
+    "static/media/illustration-dashboard.png": "/Ping-Comming-Soon-FrontendMentor/static/media/illustration-dashboard.f9aaf3db81c10cfaff45.png",
+    "static/media/logo.svg": "/Ping-Comming-Soon-FrontendMentor/static/media/logo.7e09371f05c7e00fddcc.svg",
+    "index.html": "/Ping-Comming-Soon-FrontendMentor/index.html",
+    "main.bcbb6409.css.map": "/Ping-Comming-Soon-FrontendMentor/static/css/main.bcbb6409.css.map",
+    "main.dbb6c22e.js.map": "/Ping-Comming-Soon-FrontendMentor/static/js/main.dbb6c22e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcbb6409.css",
+    "static/js/main.dbb6c22e.js"
+  ]
+}
